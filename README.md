@@ -4,4 +4,4 @@
 
 ## Description
 
-Minesweeper client written in Python using Pygame.
+Minesweeper socket client written in Python using Pygame.
